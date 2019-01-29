@@ -1,0 +1,150 @@
+{
+  "auth_signin": {
+    "path": "/auth/signin",
+    "method": "POST"
+  },
+  "user_list": {
+    "path": "/user",
+    "method": "GET"
+  },
+  "user_create": {
+    "path": "/user",
+    "method": "POST"
+  },
+  "user_get": {
+    "path": "/user/{id}",
+    "method": "GET"
+  },
+  "user_update": {
+    "path": "/user/{id}",
+    "method": "PUT"
+  },
+  "user_delete": {
+    "path": "/user/{id}",
+    "method": "DELETE"
+  },
+  "user_search": {
+    "path": "/user/search",
+    "method": "GET"
+  },
+  "plan_list": {
+    "path": "/plan",
+    "method": "GET"
+  },
+  "plan_create": {
+    "path": "/plan",
+    "method": "POST"
+  },
+  "plan_get": {
+    "path": "/plan/{id}",
+    "method": "GET"
+  },
+  "plan_update": {
+    "path": "/plan/{id}",
+    "method": "PUT"
+  },
+  "plan_delete": {
+    "path": "/plan/{id}",
+    "method": "DELETE"
+  },
+  "plan_search": {
+    "path": "/plan/search",
+    "method": "GET"
+  },
+  "excercises_list": {
+    "path": "/excercises",
+    "method": "GET"
+  },
+  "excercises_create": {
+    "path": "/excercises",
+    "method": "POST"
+  },
+  "excercises_get": {
+    "path": "/excercises/{id}",
+    "method": "GET"
+  },
+  "excercises_update": {
+    "path": "/excercises/{id}",
+    "method": "PUT"
+  },
+  "excercises_delete": {
+    "path": "/excercises/{id}",
+    "method": "DELETE"
+  },
+  "excercises_search": {
+    "path": "/excercises/search",
+    "method": "GET"
+  },
+  "user_plan_list": {
+    "path": "/userplan",
+    "method": "GET"
+  },
+  "user_plan_create": {
+    "path": "/userplan",
+    "method": "POST"
+  },
+  "user_plan_get": {
+    "path": "/userplan/{id}",
+    "method": "GET"
+  },
+  "user_plan_update": {
+    "path": "/userplan/{id}",
+    "method": "PUT"
+  },
+  "user_plan_delete": {
+    "path": "/userplan/{id}",
+    "method": "DELETE"
+  },
+  "user_plan_search": {
+    "path": "/userplan/search",
+    "method": "GET"
+  },
+  "work_out_days_list": {
+    "path": "/workoutdays",
+    "method": "GET"
+  },
+  "work_out_days_create": {
+    "path": "/workoutdays",
+    "method": "POST"
+  },
+  "work_out_days_get": {
+    "path": "/workoutdays/{id}",
+    "method": "GET"
+  },
+  "work_out_days_update": {
+    "path": "/workoutdays/{id}",
+    "method": "PUT"
+  },
+  "work_out_days_delete": {
+    "path": "/workoutdays/{id}",
+    "method": "DELETE"
+  },
+  "work_out_days_search": {
+    "path": "/workoutdays/search",
+    "method": "GET"
+  },
+  "work_out_days_excercises_list": {
+    "path": "/workoutdaysexcercises",
+    "method": "GET"
+  },
+  "work_out_days_excercises_create": {
+    "path": "/workoutdaysexcercises",
+    "method": "POST"
+  },
+  "work_out_days_excercises_get": {
+    "path": "/workoutdaysexcercises/{id}",
+    "method": "GET"
+  },
+  "work_out_days_excercises_update": {
+    "path": "/workoutdaysexcercises/{id}",
+    "method": "PUT"
+  },
+  "work_out_days_excercises_delete": {
+    "path": "/workoutdaysexcercises/{id}",
+    "method": "DELETE"
+  },
+  "work_out_days_excercises_search": {
+    "path": "/workoutdaysexcercises/search",
+    "method": "GET"
+  }
+}

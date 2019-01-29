@@ -1,0 +1,10 @@
+/* body {
+  padding-top: 3.75rem;
+  overflow:hidden;
+} */
+
+.list-group {
+  height: 100vh;
+  overflow-y: scroll;
+  padding-bottom:15px;
+}
